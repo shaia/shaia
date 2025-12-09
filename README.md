@@ -44,11 +44,8 @@ I'm a software developer passionate about building scalable tools and solving co
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaia&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaia&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
-
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+</div>
 </div>
 
 ### 🧠 Project Euler Progress
