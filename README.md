@@ -54,5 +54,6 @@ I'm a software developer passionate about building scalable tools and solving co
   <img src="github-metrics.svg" alt="Metrics" width="600">
 </div>
 </div>
+
 ---
 
