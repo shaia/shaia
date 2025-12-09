@@ -52,4 +52,4 @@ I'm a software developer passionate about building scalable tools and solving co
 </div>
 
 ### 🧠 Project Euler Progress
-<img src="https://projecteuler.net/profile/190392_hw0p40PqyOvcJ1L19CmpTuFiJWfY7xyq.png" alt="Project Euler Profile" />
+<img src="https://projecteuler.net/profile/190392_hw0p40PqyOvcJ1L19CmpTuFiJWfY7xyq" alt="Project Euler Profile" />
