@@ -2,12 +2,11 @@
 
 I'm a software developer passionate about building scalable tools and solving complex problems.
 
-- 🔭 I’m currently working on **open source projects**
+- 🔭 I’m currently working on **An open source high performance CFD library **
 - 🌱 I’m currently learning **Advanced System Design**
 - 👯 I’m looking to collaborate on **backend tooling**
 - 💬 Ask me about **Go, Python, and C++**
-- 📫 How to reach me: **email@example.com**
-- ⚡ Fun fact: **I code faster than I type.**
+- 📫 How to reach me: **shai@shaia.xyz**
 
 ---
 
