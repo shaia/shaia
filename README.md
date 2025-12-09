@@ -39,13 +39,15 @@ I'm a software developer passionate about building scalable tools and solving co
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
+
 ---
----
+
 ### 🧠 Project Euler Progress
 <img src="https://img.shields.io/badge/Project%20Euler-40%20Solved-brightgreen?style=for-the-badge&logo=octocat&logoColor=white" />
 <img src="https://projecteuler.net/profile/shaia.png" alt="Project Euler Profile" />
+
 ---
----
+
 ### 📊 GitHub Stats
 
 <div align="center">
