@@ -1,4 +1,4 @@
-# Hi there, I'm <Your Name>! 👋
+# Hi there, I'm Shai
 
 I'm a software developer passionate about building scalable tools and solving complex problems.
 
