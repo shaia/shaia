@@ -50,3 +50,6 @@ I'm a software developer passionate about building scalable tools and solving co
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaia&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 
 </div>
+
+### 🧠 Project Euler Progress
+<img src="https://projecteuler.net/profile/190392_hw0p40PqyOvcJ1L19CmpTuFiJWfY7xyq.png" alt="Project Euler Profile" />
