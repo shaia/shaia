@@ -52,4 +52,4 @@ I'm a software developer passionate about building scalable tools and solving co
 </div>
 
 ### 🧠 Project Euler Progress
-<img src="https://img.shields.io/badge/Project%20Euler-50%20Solved-brightgreen?style=for-the-badge&logo=octocat&logoColor=white" />
+<img src="https://img.shields.io/badge/Project%20Euler-40%20Solved-brightgreen?style=for-the-badge&logo=octocat&logoColor=white" />
