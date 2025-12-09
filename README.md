@@ -45,8 +45,8 @@ I'm a software developer passionate about building scalable tools and solving co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=shaia&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaia&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 
 </div>
