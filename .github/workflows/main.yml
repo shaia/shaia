@@ -21,6 +21,7 @@ jobs:
           # Options
           user: ${{ github.repository_owner }}
           template: classic
+          config_display: large
           base: header, activity, community, repositories, metadata
           config_timezone: Israel 
           
