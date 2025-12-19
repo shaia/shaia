@@ -67,6 +67,42 @@
 
 ---
 
+---
+
+### 🕵️ Crack the Code
+<div align="center">
+  <details>
+    <summary><b>Level 1: The Systems Check (C)</b></summary>
+    <pre><code>main(){int i=1801675112;puts(&i);}</code></pre>
+    <details>
+      <summary><i>✨ Reveal Answer</i></summary>
+      <code>hack</code> (It prints the integer bytes as ASCII: 0x6B636168 -> h a c k)
+    </details>
+  </details>
+
+  <details>
+    <summary><b>Level 2: The Logic Gate</b></summary>
+    <p>If <b>Slow is Smooth</b> and <b>Smooth is Fast</b>...</p>
+    <p>How much time is lost by rushing?</p>
+    <details>
+      <summary><i>✨ Reveal Answer</i></summary>
+      <p><b>All of it.</b> (Rushing creates mistakes, mistakes require fixing, fixing takes time.)</p>
+    </details>
+  </details>
+
+  <details>
+    <summary><b>Level 3: The Hidden Flag</b></summary>
+    <p>Somewhere in this profile is a hidden message.</p>
+    <!-- FLAG: U2hlbGwgd2UgcGxheSBhIGdhbWU/ -->
+    <p><i>(Inspect the source, you must)</i></p>
+    <details>
+      <summary><i>✨ Reveal Answer</i></summary>
+      <p><code>Shell we play a game?</code> (Base64 decoded from the HTML comment)</p>
+    </details>
+  </details>
+</div>
+<br/>
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="github-metrics.svg" alt="Metrics" width="800">
