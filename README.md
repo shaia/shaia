@@ -41,11 +41,11 @@
 <div align="center">
   <p>I’m currently focused on building high-performance computational fluid dynamics (CFD) libraries.</p>
   
-  <a href="https://github.com/shaia/cfd-library">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=cfd-library&theme=dracula" />
+  <a href="https://github.com/shaia/CFD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=cfd&theme=dracula" />
   </a>
-  <a href="https://github.com/shaia/bloom-filter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=bloom-filter&theme=dracula" />
+  <a href="https://github.com/shaia/BloomFilter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=bloomfilter&theme=dracula" />
   </a>
 </div>
 
