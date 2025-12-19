@@ -53,13 +53,15 @@
   <p>I’m currently focused on building high-performance computational fluid dynamics (CFD) libraries.</p>
   
   <a href="https://github.com/shaia/CFD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=cfd&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=cfd&theme=dracula" height="140" />
   </a>
   <a href="https://github.com/shaia/BloomFilter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=bloomfilter&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=bloomfilter&theme=dracula" height="140" />
+  </a>
+  <a href="https://github.com/shaia/SIMDCuckooFilter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=simdcuckoofilter&theme=dracula" height="140" />
   </a>
 </div>
-
 ---
 
 ### ⚡ Contribution Graph
