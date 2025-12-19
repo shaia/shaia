@@ -13,6 +13,9 @@
     <a href="mailto:shai@shaia.xyz">
       <img src="https://img.shields.io/badge/Email-shai@shaia.xyz-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://slow-is-fast.ghost.io/">
+      <img src="https://img.shields.io/badge/Blog-Slow_is_Fast-282a36?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" />
+    </a>
   </p>
 </div>
 
@@ -33,6 +36,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+</div>
+
+<br/>
+<div align="center">
+  <h3>🧠 Project Euler Progress</h3>
+  <img src="https://projecteuler.net/profile/shaia.png" alt="Project Euler Profile" />
 </div>
 
 ---
@@ -61,4 +70,5 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="github-metrics.svg" alt="Metrics" width="800">
+
 </div>
