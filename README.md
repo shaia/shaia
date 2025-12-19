@@ -58,12 +58,9 @@
   <a href="https://github.com/shaia/SIMDCuckooFilter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=simdcuckoofilter&theme=dracula" />
   </a>
-<<<<<<< Updated upstream
-=======
   <a href="https://github.com/shaia/BloomFilter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=bloomfilter&theme=dracula" />
   </a>
->>>>>>> Stashed changes
 </div>
 
 ---
