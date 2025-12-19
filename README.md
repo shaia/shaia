@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm Shai 👋</h1>
-  <p><b>Software Engineer & Systems Engineer & Open Source Developer & Puzzle Solver</b></p>
+  <h1>Hi there, I'm Shai</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Software+Engineer;Systems+Engineer;Open+Source+Developer;Puzzle+Solver;Slow+is+Smooth,+Smooth+is+Fast" alt="Typing SVG" />
+  </a>
   <p><b>Always learning, always curious</b></p>
   <p>I build high-performance tools and solve complex problems in C, C++, Python, Go and Assembly.</p>
   <p>I'm currently focused on building high-performance computational fluid dynamics (CFD) libraries.</p>
@@ -64,6 +66,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/shaia/shaia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+### 📰 Latest from the Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
