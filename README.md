@@ -38,11 +38,11 @@ Numbers below are from the benchmarks in each repo, not estimates.
 I write up the optimisation work in long form — the wrong turns included.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bloom Filter Optimization Saga: The &quot;Benign&quot; Read That Wasn&#39;t](https://slow-is-fast.ghost.io/the-bloom-filter-optimization-saga-the-benign-read-that-wasnt/)
 - [The Bloom Filter Optimization Saga: A Deep Dive into Go Assembly and AVX2](https://slow-is-fast.ghost.io/the-bloom-filter-optimization-saga-a-deep-dive-into-go-assembly-and-avx2/)
 - [The Bloom Filter Optimization Saga: Anatomy of a Go Concurrency Bug - Part 2](https://slow-is-fast.ghost.io/anatomy-of-a-go-concurrency-bug-2/)
 - [The Bloom Filter Optimization Saga: Anatomy of a Go Concurrency Bug - Part 1](https://slow-is-fast.ghost.io/the-bloom-filter-optimization-saga-anatomy-of-a-go-concurrency-bug-part-1/)
 - [The Bloom Filter Optimization Saga: From 3 Seconds to 66 Microseconds](https://slow-is-fast.ghost.io/the-bloom-filter-optimization-saga-from-3-seconds-to-66-microseconds/)
-- [The most profound rules of software development.](https://slow-is-fast.ghost.io/the-most-profound-rules-of-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
