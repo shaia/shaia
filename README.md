@@ -1,78 +1,42 @@
 <div align="center">
-  <img src="header.png" alt="Header" width="100%" />
+  <img src="header.webp" alt="Slow is Smooth — Shai Asher" width="100%" />
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm Shai</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Software+Engineer;Systems+Engineer;Open+Source+Developer;Puzzle+Solver;Slow+is+Smooth,+Smooth+is+Fast" alt="Typing SVG" />
-  </a>
-  <p><b>Always learning, always curious</b></p>
-  <p>I build high-performance tools and solve complex problems in C, C++, Python, Go and Assembly.</p>
-  <p>I'm currently focused on building high-performance computational fluid dynamics (CFD) libraries.</p>
-  <p>I'm also a puzzle solver, and I enjoy carcking real world 3d puzzles.</p>
+  <h1>Shai Asher</h1>
   <p>
-    <a href="mailto:shai@shaia.xyz">
-      <img src="https://img.shields.io/badge/Email-shai@shaia.xyz-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://slow-is-fast.ghost.io/">
-      <img src="https://img.shields.io/badge/Blog-Slow_is_Fast-282a36?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" />
-    </a>
+    <b>Systems programmer.</b> Go, C, C++ and assembly — concurrency, SIMD and the parts of<br/>
+    the runtime most people never have to think about. I make hot paths measurably faster,<br/>
+    and I write down how.
+  </p>
+  <p>
+    <a href="https://slow-is-fast.ghost.io/"><img src="https://img.shields.io/badge/writing-slow%20is%20fast-7fd4a3?style=flat-square&labelColor=161b22" alt="Blog" /></a>
+    <a href="mailto:shai@shaia.xyz"><img src="https://img.shields.io/badge/email-shai%40shaia.xyz-5eb8c9?style=flat-square&labelColor=161b22" alt="Email" /></a>
+    <a href="https://projecteuler.net/progress=shaia"><img src="https://img.shields.io/badge/project%20euler-shaia-c9915e?style=flat-square&labelColor=161b22" alt="Project Euler" /></a>
   </p>
 </div>
 
 ---
 
-### 🛠️ Languages & Technologies
-<div align="center">
-  <!-- Systems -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" />
-  <br />
-  <!-- Infra -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/eBPF-F69220?style=for-the-badge&logo=ebpf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-</div>
+## Selected work
 
-<br/>
-<div align="center">
-  <h3>🧠 Project Euler Progress</h3>
-  <img src="https://projecteuler.net/profile/shaia.png" alt="Project Euler Profile" />
-</div>
+Numbers below are from the benchmarks in each repo, not estimates.
+
+| Project | What it is | Measured |
+|:--|:--|:--|
+| **[BloomFilter](https://github.com/shaia/BloomFilter)** <br/> `Go` `AVX2` `NEON` | Lock-free SIMD Bloom filter. Zero allocations on the hot path, 64-byte aligned, atomic CAS instead of locks. | **26 ns** add · **23 ns** contains <br/> 3–4× faster than `willf/bloom` |
+| **[SIMDCuckooFilter](https://github.com/shaia/SIMDCuckooFilter)** <br/> `Go` `AVX2` `NEON` | Cuckoo filter with hand-written assembly for bucket probing on x86-64 and ARM64. | **3–4×** scalar (AVX2) <br/> **2–3×** scalar (NEON) |
+| **[tributary](https://github.com/shaia/tributary)** <br/> `C++20` `header-only` | Many-producer → one-consumer fan-in over bounded SPSC rings. A producer never blocks; overload drops and counts instead. | **22–29 ns** push, flat from 4 to 32 threads <br/> **3.87×** throughput at 4 consumers |
+| **[CFD](https://github.com/shaia/CFD)** <br/> `C11` `OpenMP` `CUDA` | 2D/3D incompressible Navier–Stokes solver. Multigrid, RANS turbulence, four backends. | Validated against Ghia lid-driven cavity, <br/> Taylor–Green, and channel flow at Re<sub>τ</sub>=395 |
+
+**Also building:** [thermolab](https://github.com/shaia/thermolab) and [wavelab](https://github.com/shaia/wavelab) — interactive bilingual (EN/HE) university physics courses running entirely in the browser on JupyterLite.
 
 ---
 
-### 🚀 Project Spotlight
-<div align="center">
-  <p>I’m currently focused on building high-performance computational fluid dynamics (CFD) libraries.</p>
-  
-  <a href="https://github.com/shaia/CFD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=cfd&theme=dracula" />
-  </a>
-  <a href="https://github.com/shaia/SIMDCuckooFilter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=simdcuckoofilter&theme=dracula" />
-  </a>
-  <a href="https://github.com/shaia/BloomFilter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaia&repo=bloomfilter&theme=dracula" />
-  </a>
-</div>
+## Writing
 
----
+I write up the optimisation work in long form — the wrong turns included.
 
-### ⚡ Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shaia/shaia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 📰 Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
 - [The Bloom Filter Optimization Saga: A Deep Dive into Go Assembly and AVX2](https://slow-is-fast.ghost.io/the-bloom-filter-optimization-saga-a-deep-dive-into-go-assembly-and-avx2/)
 - [The Bloom Filter Optimization Saga: Anatomy of a Go Concurrency Bug - Part 2](https://slow-is-fast.ghost.io/anatomy-of-a-go-concurrency-bug-2/)
@@ -83,44 +47,54 @@
 
 ---
 
+## Crack the code
+
+<details>
+<summary><b>Level 1 — The systems check (C)</b></summary>
+
+```c
+main(){int i=1801675112;puts(&i);}
+```
+
+<details><summary><i>Reveal</i></summary>
+
+`hack` — it prints the integer's bytes as ASCII: `0x6B636168` → `h a c k`.
+
+</details>
+</details>
+
+<details>
+<summary><b>Level 2 — The logic gate</b></summary>
+
+If **slow is smooth** and **smooth is fast**, how much time is lost by rushing?
+
+<details><summary><i>Reveal</i></summary>
+
+**All of it.** Rushing creates mistakes, mistakes require fixing, fixing takes time.
+
+</details>
+</details>
+
+<details>
+<summary><b>Level 3 — The hidden flag</b></summary>
+
+Somewhere on this page is a message that isn't rendered. Inspect the source, you must.
+<!-- FLAG: U2hlbGwgd2UgcGxheSBhIGdhbWU/ -->
+
+<details><summary><i>Reveal</i></summary>
+
+`Shell we play a game?` — base64, in an HTML comment.
+
+</details>
+</details>
+
 ---
 
-### 🕵️ Crack the Code
 <div align="center">
-  <details>
-    <summary><b>Level 1: The Systems Check (C)</b></summary>
-    <pre><code>main(){int i=1801675112;puts(&i);}</code></pre>
-    <details>
-      <summary><i>✨ Reveal Answer</i></summary>
-      <code>hack</code> (It prints the integer bytes as ASCII: 0x6B636168 -> h a c k)
-    </details>
-  </details>
-
-  <details>
-    <summary><b>Level 2: The Logic Gate</b></summary>
-    <p>If <b>Slow is Smooth</b> and <b>Smooth is Fast</b>...</p>
-    <p>How much time is lost by rushing?</p>
-    <details>
-      <summary><i>✨ Reveal Answer</i></summary>
-      <p><b>All of it.</b> (Rushing creates mistakes, mistakes require fixing, fixing takes time.)</p>
-    </details>
-  </details>
-
-  <details>
-    <summary><b>Level 3: The Hidden Flag</b></summary>
-    <p>Somewhere in this profile is a hidden message.</p>
-    <!-- FLAG: U2hlbGwgd2UgcGxheSBhIGdhbWU/ -->
-    <p><i>(Inspect the source, you must)</i></p>
-    <details>
-      <summary><i>✨ Reveal Answer</i></summary>
-      <p><code>Shell we play a game?</code> (Base64 decoded from the HTML comment)</p>
-    </details>
-  </details>
-</div>
-<br/>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="800">
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaia/shaia/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/shaia/shaia/output/github-contribution-grid-snake.svg" alt="Contribution graph" width="100%" />
+  </picture>
+  <br/><br/>
+  <img src="github-metrics.svg" alt="Commit calendar and language breakdown" width="540" />
 </div>
