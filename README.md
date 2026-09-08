@@ -38,11 +38,11 @@ Numbers below are from the benchmarks in each repo, not estimates.
 I write up the optimisation work in long form — the wrong turns included.
 
 <!-- BLOG-POST-LIST:START -->
+- [The struct that wanted a 32-byte boundary](https://slow-is-smooth.io/blog/the-struct-that-wanted-a-32-byte-boundary/)
 - [The cache was working perfectly. That was the problem.](https://slow-is-smooth.io/blog/cache-stampede-war-story/)
 - [The Bloom Filter Optimization Saga: The &quot;Benign&quot; Read That Wasn&#39;t](https://slow-is-smooth.io/blog/the-bloom-filter-optimization-saga-the-benign-read-that-wasnt/)
 - [Finding Errors in Log Streams](https://slow-is-smooth.io/blog/finding-errors-in-log-streams/)
 - [The Bloom Filter Optimization Saga: A Deep Dive into Go Assembly and AVX2](https://slow-is-smooth.io/blog/the-bloom-filter-optimization-saga-a-deep-dive-into-go-assembly-and-avx2/)
-- [The Bloom Filter Optimization Saga: Anatomy of a Go Concurrency Bug - Part 2](https://slow-is-smooth.io/blog/anatomy-of-a-go-concurrency-bug-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
