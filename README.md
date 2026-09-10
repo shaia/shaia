@@ -10,7 +10,7 @@
     and I write down how.
   </p>
   <p>
-    <a href="https://slow-is-fast.ghost.io/"><img src="https://img.shields.io/badge/writing-slow%20is%20fast-7fd4a3?style=flat-square&labelColor=161b22" alt="Blog" /></a>
+    <a href="https://slow-is-smooth.io/blog/"><img src="https://img.shields.io/badge/writing-slow%20is%20smooth-7fd4a3?style=flat-square&labelColor=161b22" alt="Blog" /></a>
     <a href="mailto:shai@shaia.xyz"><img src="https://img.shields.io/badge/email-shai%40shaia.xyz-5eb8c9?style=flat-square&labelColor=161b22" alt="Email" /></a>
     <a href="https://projecteuler.net/progress=shaia"><img src="https://img.shields.io/badge/project%20euler-shaia-c9915e?style=flat-square&labelColor=161b22" alt="Project Euler" /></a>
   </p>
