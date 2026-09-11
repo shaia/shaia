@@ -88,6 +88,21 @@ Somewhere on this page is a message that isn't rendered. Inspect the source, you
 </details>
 </details>
 
+<details>
+<summary><b>Level 4 — The byte stream (C)</b></summary>
+
+```c
+#include <stdio.h>
+int main(void){for(int i=0;i<15;i++)putchar(((char*)(int[]){2003790963,544434464,1869573491,682100})[i]);}
+```
+
+<details><summary><i>Reveal</i></summary>
+
+`slow is smooth` — Level 1's trick across four integers; the `char*` cast walks their bytes in memory order: `0x776F6C73` → `s l o w`, `0x20736920` → `␣ i s ␣`, `0x6F6F6D73` → `s m o o`, `0x000A6874` → `t h \n`.
+
+</details>
+</details>
+
 ---
 
 <div align="center">
