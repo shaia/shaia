@@ -38,11 +38,11 @@ Numbers below are from the benchmarks in each repo, not estimates.
 I write up the optimisation work in long form — the wrong turns included.
 
 <!-- BLOG-POST-LIST:START -->
+- [Your profiler said dispatch. It did not say virtual.](https://slow-is-smooth.io/blog/your-profiler-said-dispatch/)
 - [The retry limit that broke a Bloom filter&#39;s one promise](https://slow-is-smooth.io/blog/the-retry-limit-that-broke-a-bloom-filters-one-promise/)
 - [The struct that wanted a 32-byte boundary](https://slow-is-smooth.io/blog/the-struct-that-wanted-a-32-byte-boundary/)
 - [The cache was working perfectly. That was the problem.](https://slow-is-smooth.io/blog/cache-stampede-war-story/)
 - [The Bloom Filter Optimization Saga: The &quot;Benign&quot; Read That Wasn&#39;t](https://slow-is-smooth.io/blog/the-bloom-filter-optimization-saga-the-benign-read-that-wasnt/)
-- [Finding Errors in Log Streams](https://slow-is-smooth.io/blog/finding-errors-in-log-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
