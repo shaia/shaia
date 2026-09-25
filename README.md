@@ -38,11 +38,11 @@ Numbers below are from the benchmarks in each repo, not estimates.
 I write up the optimisation work in long form — the wrong turns included.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cleaning Robot Puzzle: Five Squares at Every Corner](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-five-squares-at-every-corner/)
+- [The Cleaning Robot Puzzle: Cleaning a Box](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-cleaning-a-box/)
+- [The Cleaning Robot Puzzle: A Floor with a Twist](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-a-floor-with-a-twist/)
+- [The Cleaning Robot Puzzle: A Room That Wraps Around](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-a-room-that-wraps-around/)
 - [The Cleaning Robot Puzzle: Four New Rules](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-four-new-rules/)
-- [The Cleaning Robot Puzzle: Dirt, Capacity and a Battery](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-dirt-capacity-and-a-battery/)
-- [The Cleaning Robot Puzzle](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle/)
-- [The magic number that was right for exactly one grid size](https://slow-is-smooth.io/blog/the-magic-number-that-was-right-for-exactly-one-grid-size/)
-- [Your profiler said dispatch. It did not say virtual.](https://slow-is-smooth.io/blog/your-profiler-said-dispatch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
