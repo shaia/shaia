@@ -38,11 +38,11 @@ Numbers below are from the benchmarks in each repo, not estimates.
 I write up the optimisation work in long form — the wrong turns included.
 
 <!-- BLOG-POST-LIST:START -->
+- [We Have Demands, and So Does the Compiler](https://slow-is-smooth.io/blog/we-have-demands-and-so-does-the-compiler/)
 - [The FAT sector that was written 256 times](https://slow-is-smooth.io/blog/the-fat-sector-that-was-written-256-times/)
 - [The Cleaning Robot Puzzle: A Price on Every Move](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-a-price-on-every-move/)
 - [The Cleaning Robot Puzzle: Planning the Trips](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-planning-the-trips/)
 - [The Cleaning Robot Puzzle: The Shortest Route, Exactly](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-the-shortest-route-exactly/)
-- [The Cleaning Robot Puzzle: A Lower Bound from a Linear Program](https://slow-is-smooth.io/blog/the-cleaning-robot-puzzle-a-lower-bound-from-a-linear-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
