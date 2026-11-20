@@ -38,11 +38,11 @@ Numbers below are from the benchmarks in each repo, not estimates.
 I write up the optimisation work in long form — the wrong turns included.
 
 <!-- BLOG-POST-LIST:START -->
+- [A GPU that answers 13 times faster than the CPU, and still loses](https://slow-is-smooth.io/blog/a-gpu-that-answers-faster-and-still-loses/)
 - [Every Sound Is a Function](https://slow-is-smooth.io/blog/every-sound-is-a-function/)
 - [The 1.5× that three benchmarks tried to hide](https://slow-is-smooth.io/blog/the-speedup-three-benchmarks-hid/)
 - [892 numbers, and not one bit different](https://slow-is-smooth.io/blog/a-learned-bloom-filter-to-the-last-bit/)
 - [Drawing With No Pictures](https://slow-is-smooth.io/blog/drawing-with-no-pictures/)
-- [We Have Demands, and So Does the Compiler](https://slow-is-smooth.io/blog/we-have-demands-and-so-does-the-compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
