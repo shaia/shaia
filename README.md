@@ -38,11 +38,11 @@ Numbers below are from the benchmarks in each repo, not estimates.
 I write up the optimisation work in long form — the wrong turns included.
 
 <!-- BLOG-POST-LIST:START -->
+- [The cheaper integrator that beat RK4 at orbit 3,188](https://slow-is-smooth.io/blog/the-cheaper-integrator-that-beat-rk4/)
 - [Behaviour as Data](https://slow-is-smooth.io/blog/behaviour-as-data/)
 - [One Struct, Many Functions](https://slow-is-smooth.io/blog/one-struct-many-functions/)
 - [The Pascal Puzzles: The Champagne Tower](https://slow-is-smooth.io/blog/pascal-puzzles-the-champagne-tower/)
 - [The 43 milliseconds that belonged to the machine](https://slow-is-smooth.io/blog/the-43-milliseconds-that-belonged-to-the-machine/)
-- [An autocomplete smaller than the list it completes](https://slow-is-smooth.io/blog/an-autocomplete-smaller-than-the-list-it-completes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
